@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/caduado13/video_conference-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/caduado13/video_conference-server.git
